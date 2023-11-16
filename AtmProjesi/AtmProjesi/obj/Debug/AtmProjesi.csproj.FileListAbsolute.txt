@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\bin\Debug\AtmProjesi.exe.config
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\bin\Debug\AtmProjesi.exe
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\bin\Debug\AtmProjesi.pdb
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\obj\Debug\AtmProjesi.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\obj\Debug\AtmProjesi.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\obj\Debug\AtmProjesi.exe
+C:\Users\talha\source\repos\AtmProjesi\AtmProjesi\obj\Debug\AtmProjesi.pdb

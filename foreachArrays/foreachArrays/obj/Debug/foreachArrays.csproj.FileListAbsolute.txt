@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\bin\Debug\foreachArrays.exe.config
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\bin\Debug\foreachArrays.exe
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\bin\Debug\foreachArrays.pdb
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\obj\Debug\foreachArrays.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\obj\Debug\foreachArrays.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\obj\Debug\foreachArrays.exe
+C:\Users\talha\source\repos\foreachArrays\foreachArrays\obj\Debug\foreachArrays.pdb

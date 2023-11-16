@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\try3\try3\bin\Debug\try3.exe.config
+C:\Users\talha\source\repos\try3\try3\bin\Debug\try3.exe
+C:\Users\talha\source\repos\try3\try3\bin\Debug\try3.pdb
+C:\Users\talha\source\repos\try3\try3\obj\Debug\try3.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\try3\try3\obj\Debug\try3.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\try3\try3\obj\Debug\try3.exe
+C:\Users\talha\source\repos\try3\try3\obj\Debug\try3.pdb

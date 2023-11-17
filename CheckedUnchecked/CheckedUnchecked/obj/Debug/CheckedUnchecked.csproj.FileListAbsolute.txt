@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe.config
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\obj\Debug\CheckedUnchecked.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\obj\Debug\CheckedUnchecked.exe
+C:\Users\talha\source\repos\CheckedUnchecked\CheckedUnchecked\obj\Debug\CheckedUnchecked.pdb

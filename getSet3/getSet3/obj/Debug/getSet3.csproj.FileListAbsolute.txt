@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\getSet3\getSet3\bin\Debug\getSet3.exe.config
+C:\Users\talha\source\repos\getSet3\getSet3\bin\Debug\getSet3.exe
+C:\Users\talha\source\repos\getSet3\getSet3\bin\Debug\getSet3.pdb
+C:\Users\talha\source\repos\getSet3\getSet3\obj\Debug\getSet3.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\getSet3\getSet3\obj\Debug\getSet3.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\getSet3\getSet3\obj\Debug\getSet3.exe
+C:\Users\talha\source\repos\getSet3\getSet3\obj\Debug\getSet3.pdb

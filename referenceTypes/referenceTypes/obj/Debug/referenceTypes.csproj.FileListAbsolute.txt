@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\bin\Debug\referenceTypes.exe.config
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\bin\Debug\referenceTypes.exe
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\bin\Debug\referenceTypes.pdb
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\obj\Debug\referenceTypes.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\obj\Debug\referenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\obj\Debug\referenceTypes.exe
+C:\Users\talha\source\repos\referenceTypes\referenceTypes\obj\Debug\referenceTypes.pdb

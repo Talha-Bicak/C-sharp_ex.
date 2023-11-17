@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\const2\const2\bin\Debug\const2.exe.config
+C:\Users\talha\source\repos\const2\const2\bin\Debug\const2.exe
+C:\Users\talha\source\repos\const2\const2\bin\Debug\const2.pdb
+C:\Users\talha\source\repos\const2\const2\obj\Debug\const2.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\const2\const2\obj\Debug\const2.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\const2\const2\obj\Debug\const2.exe
+C:\Users\talha\source\repos\const2\const2\obj\Debug\const2.pdb

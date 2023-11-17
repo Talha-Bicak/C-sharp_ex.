@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\talha\source\repos\TypeCasting\TypeCasting\obj\Debug\TypeCasting.pdb

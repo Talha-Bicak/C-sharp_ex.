@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.exe.config
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.exe
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.pdb
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.exe
+C:\Users\talha\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\bin\Debug\BitwiseOprtor2.exe.config
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\bin\Debug\BitwiseOprtor2.exe
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\bin\Debug\BitwiseOprtor2.pdb
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\obj\Debug\BitwiseOprtor2.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\obj\Debug\BitwiseOprtor2.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\obj\Debug\BitwiseOprtor2.exe
+C:\Users\talha\source\repos\BitwiseOprtor2\BitwiseOprtor2\obj\Debug\BitwiseOprtor2.pdb

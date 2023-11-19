@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\bin\Debug\SwitchCaseControls.exe.config
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\bin\Debug\SwitchCaseControls.exe
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\bin\Debug\SwitchCaseControls.pdb
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\obj\Debug\SwitchCaseControls.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\obj\Debug\SwitchCaseControls.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\obj\Debug\SwitchCaseControls.exe
+C:\Users\talha\source\repos\SwitchCaseControls\SwitchCaseControls\obj\Debug\SwitchCaseControls.pdb

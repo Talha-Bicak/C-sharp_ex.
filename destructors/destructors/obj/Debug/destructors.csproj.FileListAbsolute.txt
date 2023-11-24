@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\destructors\destructors\bin\Debug\destructors.exe.config
+C:\Users\talha\source\repos\destructors\destructors\bin\Debug\destructors.exe
+C:\Users\talha\source\repos\destructors\destructors\bin\Debug\destructors.pdb
+C:\Users\talha\source\repos\destructors\destructors\obj\Debug\destructors.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\destructors\destructors\obj\Debug\destructors.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\destructors\destructors\obj\Debug\destructors.exe
+C:\Users\talha\source\repos\destructors\destructors\obj\Debug\destructors.pdb

@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\structss\structss\bin\Debug\structss.exe.config
+C:\Users\talha\source\repos\structss\structss\bin\Debug\structss.exe
+C:\Users\talha\source\repos\structss\structss\bin\Debug\structss.pdb
+C:\Users\talha\source\repos\structss\structss\obj\Debug\structss.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\structss\structss\obj\Debug\structss.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\structss\structss\obj\Debug\structss.exe
+C:\Users\talha\source\repos\structss\structss\obj\Debug\structss.pdb

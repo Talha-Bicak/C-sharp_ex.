@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degerReferansTuru", "degerReferansTuru\degerReferansTuru.csproj", "{938EFD93-D25E-4BB0-9A56-94689C7053D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938EFD93-D25E-4BB0-9A56-94689C7053D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938EFD93-D25E-4BB0-9A56-94689C7053D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938EFD93-D25E-4BB0-9A56-94689C7053D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938EFD93-D25E-4BB0-9A56-94689C7053D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778E2CF0-E939-4D55-8F35-713FFCE715A2}
+	EndGlobalSection
+EndGlobal

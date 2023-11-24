@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\obj\Debug\ArraysMethods.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\obj\Debug\ArraysMethods.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\bin\Debug\ArraysMethods.exe.config
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\bin\Debug\ArraysMethods.exe
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\bin\Debug\ArraysMethods.pdb
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\obj\Debug\ArraysMethods.exe
+C:\Users\talha\source\repos\ArraysMethods\ArraysMethods\obj\Debug\ArraysMethods.pdb

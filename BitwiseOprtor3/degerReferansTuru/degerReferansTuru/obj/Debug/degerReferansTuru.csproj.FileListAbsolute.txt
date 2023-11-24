@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\bin\Debug\degerReferansTuru.exe.config
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\bin\Debug\degerReferansTuru.exe
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\bin\Debug\degerReferansTuru.pdb
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\obj\Debug\degerReferansTuru.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\obj\Debug\degerReferansTuru.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\obj\Debug\degerReferansTuru.exe
+C:\Users\talha\source\repos\degerReferansTuru\degerReferansTuru\obj\Debug\degerReferansTuru.pdb

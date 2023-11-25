@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\obj\Debug\stringClasses3.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\obj\Debug\stringClasses3.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\bin\Debug\stringClasses3.exe.config
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\bin\Debug\stringClasses3.exe
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\bin\Debug\stringClasses3.pdb
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\obj\Debug\stringClasses3.exe
+C:\Users\talha\source\repos\stringClasses3\stringClasses3\obj\Debug\stringClasses3.pdb

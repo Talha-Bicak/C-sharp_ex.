@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\bitConverter\bitConverter\bin\Debug\bitConverter.exe.config
+C:\Users\talha\source\repos\bitConverter\bitConverter\bin\Debug\bitConverter.exe
+C:\Users\talha\source\repos\bitConverter\bitConverter\bin\Debug\bitConverter.pdb
+C:\Users\talha\source\repos\bitConverter\bitConverter\obj\Debug\bitConverter.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\bitConverter\bitConverter\obj\Debug\bitConverter.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\bitConverter\bitConverter\obj\Debug\bitConverter.exe
+C:\Users\talha\source\repos\bitConverter\bitConverter\obj\Debug\bitConverter.pdb

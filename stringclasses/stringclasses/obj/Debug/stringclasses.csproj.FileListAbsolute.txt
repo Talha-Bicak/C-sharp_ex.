@@ -1,0 +1,7 @@
+C:\Users\talha\source\repos\stringclasses\stringclasses\bin\Debug\stringclasses.exe.config
+C:\Users\talha\source\repos\stringclasses\stringclasses\bin\Debug\stringclasses.exe
+C:\Users\talha\source\repos\stringclasses\stringclasses\bin\Debug\stringclasses.pdb
+C:\Users\talha\source\repos\stringclasses\stringclasses\obj\Debug\stringclasses.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\stringclasses\stringclasses\obj\Debug\stringclasses.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\stringclasses\stringclasses\obj\Debug\stringclasses.exe
+C:\Users\talha\source\repos\stringclasses\stringclasses\obj\Debug\stringclasses.pdb

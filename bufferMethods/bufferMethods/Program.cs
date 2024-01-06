@@ -10,7 +10,7 @@ namespace bufferMethods
     {
         static void Main(string[] args)
         {
-            // Buffer sınıfının örnek kullanımı
+            // Buffer sınıfının örnek kullanım
             byte[] sourceArray = { 1, 2, 3, 4, 5 };
             byte[] targetArray = new byte[5];
 

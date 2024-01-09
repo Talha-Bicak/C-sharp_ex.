@@ -12,7 +12,7 @@ namespace AritmeticMean
         {
             Console.WriteLine("Kaç sayının aritmetik ortalamasını almak istiyorsunuz ? ");
             int adet = Convert.ToInt32(Console.ReadLine());
-
+//
             Console.WriteLine("Aritmetik ortalaması alınacak olan sayilari giriniz: ");
 
             int toplam = 0;
